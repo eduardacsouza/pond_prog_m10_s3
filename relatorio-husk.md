@@ -77,11 +77,11 @@ Arquivo gerado: `eslint.config.mjs`
 
 ### Execução do pré-commit (compilação e lint)
 
-*Coloque aqui uma screenshot do terminal ao fazer `git commit`, mostrando o lint e o build sendo executados com sucesso.*
+
 
 ### Execução do pré-push (testes)
 
-*Coloque aqui uma screenshot do terminal ao fazer `git push`, mostrando a execução do comando de testes com sucesso.*
+
 
 ---
 
