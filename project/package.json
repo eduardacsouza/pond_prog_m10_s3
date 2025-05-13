@@ -1,0 +1,26 @@
+{
+  "name": "pond_prog_m10_s3",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "echo 'skip' && husky install",
+    "build": "echo 'Build simulada com sucesso'",
+    "lint": "eslint .",
+    "test": "echo 'Simulando testes' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.1.0",
+    "jest": "^29.7.0",
+    "lint-staged": "^16.0.0",
+    "typescript-eslint": "^8.32.1",
+    "husky": "^8.0.0"
+  },
+  "dependencies": {
+    "husky": "^9.1.7"
+  }
+}
