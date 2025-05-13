@@ -6,7 +6,7 @@
 ## Estrutura da entrega
 
 - A pasta [`project/`](./project) contém todos os arquivos técnicos do projeto, como `package.json`, `.husky/`, `eslint.config.mjs` e os scripts configurados.
-- O arquivo [`relatorio-husky.md`](./relatorio-husky.md) na raiz documenta todas as etapas realizadas, incluindo:
+- O arquivo [`relatorio-husky.md`](./relatorio-husky.md) documenta todas as etapas realizadas, incluindo:
   - Instalação e configuração do Husky
   - Criação dos hooks de pré-commit e pré-push
   - Configuração do ESLint
